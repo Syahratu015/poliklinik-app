@@ -84,14 +84,3 @@ php artisan serve
 ## 👩‍💻 Repository
 
 GitHub: https://github.com/Syahratu015/poliklinik-app
-
-## Screenshot Aplikasi BAB 5
-
-### 1. Daftar Poli (Pasien)
-![Daftar Poli](screenshots/daftar-poli.png)
-
-### 2. Periksa Pasien (Dokter)
-![Periksa Pasien](screenshots/periksa-pasien.png)
-
-### 3. Riwayat Pasien (Dokter)
-![Riwayat Pasien](screenshots/riwayat-pasien.png)
